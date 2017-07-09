@@ -29,7 +29,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: #0085A1;
+  color: #e89794;
 }
 a img:hover,
 a img:focus {
@@ -126,14 +126,14 @@ hr.small {
   }
   .navbar-custom.is-fixed .navbar-brand:hover,
   .navbar-custom.is-fixed .navbar-brand:focus {
-    color: #0085A1;
+    color: #e89794;
   }
   .navbar-custom.is-fixed .nav li a {
     color: #333333;
   }
   .navbar-custom.is-fixed .nav li a:hover,
   .navbar-custom.is-fixed .nav li a:focus {
-    color: #0085A1;
+    color: #e89794;
   }
   .navbar-custom.is-visible {
     /* if the user changes the scrolling direction, we show the header */
@@ -228,7 +228,7 @@ hr.small {
 .post-preview > a:hover,
 .post-preview > a:focus {
   text-decoration: none;
-  color: #0085A1;
+  color: #e89794;
 }
 .post-preview > a > .post-title {
   font-size: 30px;
@@ -252,7 +252,7 @@ hr.small {
 }
 .post-preview > .post-meta > a:hover,
 .post-preview > .post-meta > a:focus {
-  color: #0085A1;
+  color: #e89794;
   text-decoration: underline;
 }
 @media only screen and (min-width: 768px) {
